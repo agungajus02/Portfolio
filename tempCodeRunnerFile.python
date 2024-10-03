@@ -1,0 +1,7 @@
+while True:
+    kata = str(input("masukkan kata: "))
+    if kata.lower() == "lima":
+        print("yap benar")
+        break
+    else :
+        print(kata)
